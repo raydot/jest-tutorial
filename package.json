@@ -1,0 +1,31 @@
+{
+  "name": "jest-tutorial",
+  "version": "1.0.0",
+  "description": "Following tutorial on Jest.  See README.md for details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/jest-tutorial.git"
+  },
+  "keywords": [
+    "jest",
+    "node",
+    "react",
+    "unit",
+    "test"
+  ],
+  "author": "Dave Kanter",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/raydot/jest-tutorial/issues"
+  },
+  "homepage": "https://github.com/raydot/jest-tutorial#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "jest": "^24.8.0",
+    "jsonserver": "^0.1.6"
+  }
+}
